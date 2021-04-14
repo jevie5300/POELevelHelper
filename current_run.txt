@@ -1,8 +1,221 @@
-1. Nessa-2. Tarkleigh-3. The Coast
-1. The Mud Flats
-1. 3x Rhoa Nests-2. Glyph Wall-3. The Submerged Passage
-1. WP-2. The Flooded Depths
-1. The Ledge
-1. WP-2. The Climb
-1. WP-2. The Lower Prison
-
+Kill Hillock-Lioneye's Watch
+Tarkleigh ** Freezing Pulse **-The Coast
+WP-The Tidal Island
+Kill Hailrake-Logout-Lioneye's Watch
+Nessa-Tarkleigh-The Coast
+The Mud Flats
+3x Rhoa Nests-Glyph Wall-The Submerged Passage
+WP-The Flooded Depths
+The Ledge
+WP-The Climb
+WP-The Lower Prison
+WP-The Submerged Passage
+The Flooded Depths
+Kill Deep Dweller-Logout-Lioneye's Watch
+Talk to Tarkleigh-The Lower Prison
+Lab-The Upper Prison
+Warden's Quarter's-Warden's Chambers-Kill Brutus-Prisoner's Gate
+Lioneye's Watch
+Tarkleigh-Prisoner's Gate
+Ship Graveyard
+WP-The Ship Graveyard Cave
+Retrieve the Allflame-Ship Graveyard
+Cavern of Wrath
+WP-WP to  Ship Graveyard
+Fairgraves(Always near WP)-Logout-Lioneye's Watch
+Bestel-Nessa-WP to The Cavern of Wrath-The Cavern of Anger
+Merveil's Lair-Kill Merveil-The Southern Forest
+The Forest Encampment
+The Riverways
+WP (Upper left part of area)-The Wetlands
+Kill Oak-WP-WP to The Riverways
+The Western Forest
+WP-The Weaver's Chambers
+Kill Weaver-Logout-The Forest Encampment
+WP to The Western Forest
+Kill Blackgaurds-Portal-The Forest Encampment
+WP to Lioneye's Watch
+Bestel-WP to The Forest Encampment
+The Old Fields
+Run through these zones if out leveled-The Den
+Kill White Beast-The Old Fields
+The Crossroads
+The Broken Bridge
+Kill Kraityn-WP to The Western Forest
+Help Alira-Logout-The Forest Encampment
+Eramir (Take the Apex)-WP to The Crossroads
+The Chamber of Sins Level 1
+WP-The Chamber of Sins Level 2
+Lab-Kill Fidelitas-Talk to Helena-Logout-The Forest Encampment
+Greust-The Wetlands
+Poison Roots-The Vaal Ruins
+The Northern Forest
+WP-The Ancient Pyramid
+Pyramid Apex-Kill Vaal Oversoul-The City of Sarn
+The Sarn Encampment
+The Slums
+The Crematorium
+Lab-Kill Piety-Logout-The Sarn Encampment
+The Slums
+The Sewers
+Three Platinum Busts-WP-The Marketplace
+WP-Upper right of the WP-The Catacombs
+Lab-Logout-The Sarn Encampment
+WP to The Marketplace
+The Battlefront
+WP (In the middle)-Head down for Blackguard Chest-Head up-The Solaris Temple Level 1
+WP-The Solaris Temple Level 2
+WP-WP to The Battlefront
+Head left to The Docks
+Supply Containter-Logout-The Sarn Encampment
+Hargan *** Book ***-WP to Solaris Temple Level 2
+Lady Dialla *** Infernal Talk ***-WP to The Sewers
+The Ebony Barracks
+Kill General Gravicius-The Lunaris Temple Level 1
+Ascending Staircases-Two Carts = Dead End-Kill Piety-Logout-The Sarn Encampment
+WP to The Ebony Barracks
+Head Right-The Imperial Gardens
+Tiled path-WP (Library Left)-Head Up-Lab-The Sceptre of God
+The Upper Sceptre of God
+Kill Dominus-The Aqueduct
+Highgate
+The Dried Lake
+Kill Vol-Logout-Highgate
+The Mines Level 1
+The Mines Level 2
+Deshret's Spirit-The Crystal Veins
+WP at end-Highgate
+Tasuni-Oyun *** Golem ***-WP to The Crystal Veins
+Kaom's Dream
+Kaom's Stronghold
+WP-Kill Kaom-Logout-Highgate
+WP to The Crystal Veins
+Daresso's Dream
+The Grand Arena
+Kill Daresso-Logout-Highgate
+WP to The Crystal Veins
+The Belly of the Beast Level 1
+The Belly of the Beast Level 2
+Kill Piety-The Harvest
+Slay Malachai's 3 guardians-Kill Malachai-Logout-Highgate
+The Ascent
+Resonator to Oriath-The Slave Pens
+Kill Overseer-Overseer's Tower
+Lani *** Ring ***-The Control Blocks
+Find Miasmeter (Most commonly middle left of the zone)-Kill Justicar Casticus-Oriath Square
+WP to The Overseer's Tower
+Lani *** Quicksilver Flask ***-Vilenta-WP to Oriath Square
+The Templar Courts
+WP-The Chamber of Innocence
+WP-Kill Innocence-The Torched Courts
+The Ruined Square
+WP-The Ossuary
+Get Sign of Purity-The Ruined Square
+The Reliquary (Bottom right of map)
+Kitava’s Torments-Logout-The Overseer's Tower
+Lani *** Book ***-The Ruined Square
+The Cathedral Rooftop
+Kill Kitava-Lioneye's Watch
+The Twilight Strand
+Clear Area-Lioneye's Watch
+Lilly Roth-The Coast
+WP-The Mud Flats
+Kill Dishonoured Queen (Orange Mob)-The Karui Fortress (Usually upper middle part of map)
+Find Tokuhama's Keep-Kill Tokuhama-The Ridge
+WP to Lioneye's Watch
+Tarkleigh *** Book ***-WP to The Ridge
+The Lower Prison
+Lab-Shavronne's Tower
+Kill Brutus and Shavronne-Prisoner's Gate
+Find Valley of Fire Drinker-Kill Abberath-Portal to Lioneye's Watch
+Bestel *** Book ***-WP to Prisoner's Gate
+The Western Forest
+WP-The Wetlands
+Find Spawning Grounds-Kill Puppet Mistress-Logout-Lioneye's Watch
+Tarlkeigh *** Book ***-WP to The Riverways
+The Southern Forest (Middle lower right)
+WP-The Cavern of Anger
+Black Flag-The Passage-The Beacon
+WP-Pyramid-Do follow objectives-Ignition Switch-Beacon-Weylam Roth-The Brine King's Reef
+Brine King's Throne (follow left wall)-Kill Brine King-Welyam Roth-The Bridge Encampment
+The Broken Bridge
+The Crossroads (Bottom left)
+WP-The Fellshrine Ruins (Bottom fork)
+The Crypt
+Lab-Find Sacophagus-The Crypt Level 2-Maligaro's Map-Logout-The Bridge Encampment
+WP to The Crossroads
+The Chamber of Sins Level 1 (Upper path)
+WP-Maligaro's Map-Maligaro's Sanctum
+Kill Maligaro-Black Venom-Portal Scroll-Silk-Obsidian Key-The Chamber of Sins Level 2
+Lab-The Den
+The Ashen Fields
+Fortess Encampment-Kill Greust-The Northern Forest
+WP to The Bridge Encampment
+Helena-The Northern Forest
+Azmeri Shrine-The Dread Thicket
+Den of Despair-Kill Gruthkul- Back to Dread Thicket-Collect 7 Fireflies-Portal to The Bridge Encampment
+Eramir *** 2 Books ***-WP to The Northern Forest
+The Causeway
+WP-Kishara's Star-The Vaal City
+Yeena (Middle)-The Temple of Decay Level 1
+The Temple of Decay Level 2
+Arakaali's Web-Kill Arakaali-The Sarn Ramparts
+The Sarn Encampment
+The Toxic Conduits
+Doedre's Cesspool
+Open grate and enter Cauldron-Kill Deodre-WP-Go right to The Quay
+Ankh of Eternity (Near entrance of zone, look for long bridge)-Enter Resurrection Site-Kill Tolman-Clarissa-The Quay
+The Grain Gate
+WP-Head up and follow right-upper wall-Kill Gemming Legionaries-The Imperial Fields
+Follow main road-WP to The Sarn Encampment
+Clarissa *** Book ***-Maramoa ***Book ***-Hargan *** Ring ***-WP to The Imperial Fields
+The Solaris Temple Level 1
+WP-The Solaris Temple Level 2
+Kill Dawn-Logout-The Sarn Encampment
+The Toxic Conduits
+Go left to The Grand Promenade
+The Bath House
+WP-Lab-Portal to The Sarn Encampment
+WP to The Bath House
+The High Gardens
+Kill Yugul-Portal to The Sarn Encampment
+Hargan *** Book ***-WP to Th Bath House
+The Lunaris Concourse
+WP-The Lunaris Temple Level 1
+Head upwards to The Lunaris Temple Level 2
+Kill Dusk-Logout-The Sarn Encampment
+WP to Lunaris Concourse
+The Harbour Bridge
+The Sky Shrine-Kill Solaris and Lunaris-The Blood Aqueduct
+Highgate
+The Descent
+Head right and descend via Supply Hoists-The Vastiri Desert
+WP-Locate Storm Weathered Chest-Take Storm Blade-Portal to Highgate
+Petarus and Vanja-Sin-Petarus and Vanja-Portal back to The Vastiri Desert
+The Oasis
+Locate Sand Pit-Kill Shakari-Logout-Highgate
+Irasha *** Book ***-WP to The Vastiri Desert
+The Foothills
+WP-The Boiling Lake
+Kill Basilisk-Logout-Highgate
+WP to The Foothills
+The Tunnel
+Lab-The Quarry
+WP (Straight)-The Refinery
+Kill General Adus-Trarthan Powder-Logout-Highgate
+WP to The Quarry
+Sin-The Belly of the Beast
+The Rotting Core
+Black Core-Kill Shavronne, Maligaro and Deodre-Enter Black Heart-Kill Depraved Trinity-Lilly Roth-Oriath Docks
+The Cathedral Rooftop
+Locate Cathedral Apex-Kill the Cultists and Gargoyles to free Bannon-Exit to Cathedral Rooftop-The Ravaged Square
+WP-The Ossuary
+Lab-Elixir of Allure-The Ravaged Square
+The Torched Courts
+The Desecrated Chambers
+WP-Find and Kill Avarius-The Desecrated Chambers
+WP to Oriath Docks
+Bannon-Lani *** Flask and Armor ***-Innocence-The Ravaged Square
+The Canals
+The Feeding Trough
+Sin-Enter Altar of Hunger-Kill Kitava-Oriath

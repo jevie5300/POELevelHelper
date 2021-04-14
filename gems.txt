@@ -1,0 +1,8 @@
+8,Lesser Multiple Projectiles,Tarkleigh - Kill Brutus,Caustic Arrow + Elemental Hit
+8,Void Manipulation,Tarkleigh - Kill Brutus,Caustic Arrow
+10,Smoke Mine,Tarkleigh - Kill Brutus,Movement
+12,Elemental Hit,Nessa - Kill Merveil,Main Skill
+18,Elemental Damage with Attacks,Silk - Kill Weaver,Elemental Hit
+24,Sniper's Mark,Clarissa - Resque Clarissa and Tolman,Debuf
+31,Hypotgermia,Archives - Find missing pages,Elemental Hit
+38,Chain,Lady Dialla - Kill Malachai,Elemental Hit
