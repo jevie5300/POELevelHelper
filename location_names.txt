@@ -1,0 +1,72 @@
+6	No Waypoint The Twilight Strand	45
+6	No Waypoint The Coast	45
+6	No Waypoint The Tidal Island	45
+6	No Waypoint The Mud Flats	46
+6	No WaypointThe Karui Fortress	46
+6	No WaypointThe Ridge	46
+6	No WaypointThe Lower Prison	47
+6	No WaypointShavronne's Tower	47
+6	No WaypointPrisoner's Gate	47
+6	No WaypointThe Riverways	48
+6	No WaypointThe Wetlands	48
+6	No WaypointThe Western Forest	48
+6	No WaypointThe Southern Forest	49
+6	No WaypointThe Cavern of Anger	49
+6	No WaypointThe Beacon	49
+6	No WaypointThe Brine King's Reef	50
+6	Town HubLioneye's Watch	50
+7	No WaypointThe Broken Bridge	50
+7	No WaypointThe Crossroads	51
+7	No WaypointThe Fellshrine Ruins	51
+7	No WaypointThe Crypt	51
+7	No WaypointThe Chamber of Sins Level 1	52
+7	No WaypointThe Chamber of Sins Level 2	52
+7	No WaypointMaligaro's Sanctum	52
+7	No WaypointThe Den	53
+7	No WaypointThe Ashen Fields	53
+7	No WaypointThe Northern Forest	53
+7	No WaypointThe Dread Thicket	53
+7	No WaypointThe Causeway	54
+7	No WaypointThe Vaal City	54
+7	No WaypointThe Temple of Decay Level 1	54
+7	No WaypointThe Temple of Decay Level 2	55
+7	Town HubThe Bridge Encampment	55
+8	No WaypointThe Sarn Ramparts	55
+8	No WaypointThe Toxic Conduits	56
+8	No WaypointDoedre's Cesspool	56
+8	No WaypointThe Grand Promenade	56
+8	No WaypointThe Bath House	57
+8	No WaypointThe Quay	57
+8	No WaypointThe Grain Gate	57
+8	No WaypointThe Imperial Fields	58
+8	No WaypointThe Solaris Concourse	58
+8	No WaypointThe High Gardens	58
+8	No WaypointThe Lunaris Concourse	58
+8	No WaypointThe Solaris Temple Level 1	59
+8	No WaypointThe Solaris Temple Level 2	59
+8	No WaypointThe Lunaris Temple Level 1	59
+8	No WaypointThe Lunaris Temple Level 2	59
+8	No WaypointThe Harbour Bridge	60
+8	Town HubThe Sarn Encampment	60
+9	No WaypointThe Blood Aqueduct	61
+9	No WaypointThe Descent	61
+9	No WaypointThe Vastiri Desert	61
+9	No WaypointThe Oasis	61
+9	No WaypointThe Foothills	62
+9	No WaypointThe Boiling Lake	62
+9	No WaypointThe Tunnel	62
+9	No WaypointThe Belly of the Beast	63
+9	No WaypointThe Quarry	63
+9	No WaypointThe Refinery	63
+9	No WaypointThe Rotting Core	64
+9	Town HubHighgate	67
+10	No WaypointThe Cathedral Rooftop	64
+10	No WaypointThe Ravaged Square	64
+10	No WaypointThe Torched Courts	65
+10	No WaypointThe Desecrated Chambers	65
+10	No WaypointThe Canals	66
+10	No WaypointThe Control Blocks	66
+10	No WaypointThe Feeding Trough	67
+10	No WaypointThe Reliquary	67
+10	No WaypointThe Ossuary	67
+10	Town HubOriath Docks	69
